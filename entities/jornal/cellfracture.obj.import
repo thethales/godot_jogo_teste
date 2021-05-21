@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cellfracture.obj-78a208c90e7484d6797ba882f9ac86db.mesh"
+
+[deps]
+
+files=[ "res://.import/cellfracture.obj-78a208c90e7484d6797ba882f9ac86db.mesh" ]
+
+source_file="res://entities/jornal/cellfracture.obj"
+dest_files=[ "res://.import/cellfracture.obj-78a208c90e7484d6797ba882f9ac86db.mesh", "res://.import/cellfracture.obj-78a208c90e7484d6797ba882f9ac86db.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
